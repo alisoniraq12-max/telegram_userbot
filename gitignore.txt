@@ -1,0 +1,3 @@
+fingerprints.json
+downloads/
+__pycache__/
